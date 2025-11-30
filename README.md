@@ -11,7 +11,7 @@ Melalui project ini, saya mempraktikkan beberapa konsep penting seperti:
 - Struktur UI berbasis deklaratif
 
 ## 📱 Hasil Aplikasi
-Berikut hasil tampilan aplikasi (GIF demo):
+Berikut hasil tampilan aplikasi :
 
 ![Hasil Lunch Tray](hasillunchtray.gif)
 
